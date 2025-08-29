@@ -1,6 +1,6 @@
 # Quantum-Circuit-Simulations
 
-![Project Banner](./docs/images/banner-placeholder.png)  
+![Project Banner](media)  
 *Placeholder for image — e.g., visualization of qubits, Bloch spheres, or atomic orbitals.*
 
 ---
