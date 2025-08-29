@@ -1,7 +1,7 @@
 # Quantum-Circuit-Simulations
 
 ![Project Banner](media/quantum-entanglement-b.jpg)  
-*Placeholder for image — e.g., visualization of qubits, Bloch spheres, or atomic orbitals.*
+
 
 ---
 
