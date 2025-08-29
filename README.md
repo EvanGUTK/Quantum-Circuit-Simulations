@@ -118,7 +118,3 @@ These systems are not just theoretical curiosities — they are leading candidat
 - **Interactive CLI** and **graphical visualization tools**.  
 - Preloaded **example datasets** (H₂, Grover, Shor, SSH).  
 - Modular **Python API** for researchers.  
-
----
-
-## 📂 Repository Layout (planned)
