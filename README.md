@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:0d1117&height=220&section=header&text=Quantum%20Circuit%20Simulations&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=GPU-accelerated%20qubit%20simulation%3A%20Grover%2C%20Shor%2C%20Schr%C3%B6dinger%20%26%20topological%20matter&descAlignY=60&descSize=20&animation=fadeIn" alt="Quantum Circuit Simulations" width="100%" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Qubits](https://img.shields.io/badge/Simulated-~31_qubits-8b5cf6?style=for-the-badge) ![GPU](https://img.shields.io/badge/GPU-RTX_4080_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
 # Quantum-Circuit-Simulations
 
 ![Project Banner](media/quantum-entanglement-b.jpg)  
@@ -118,3 +126,12 @@ These systems are not just theoretical curiosities — they are leading candidat
 - **Interactive CLI** and **graphical visualization tools**.  
 - Preloaded **example datasets** (H₂, Grover, Shor, SSH).  
 - Modular **Python API** for researchers.  
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5b21b6&height=90&section=footer" alt="" width="100%" />
+
+</div>
